@@ -2,4 +2,6 @@
 # test-repo
 Spotify clone for testing!
 
-Adding another line.
+Adding another line
+
+Testing branch feature.
